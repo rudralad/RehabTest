@@ -1,0 +1,16 @@
+{
+"companyName": "The Ability Labs",
+"productName": "Hand Rehab System",
+"productVersion": "0.1",
+"dataUrl": "Beta WebGl.data.unityweb",
+"wasmCodeUrl": "Beta WebGl.wasm.code.unityweb",
+"wasmFrameworkUrl": "Beta WebGl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
